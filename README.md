@@ -8,6 +8,10 @@ Crear controladores:
 
     $ php artisan make:controller ShowProfile
 
+Crear middlewares:
+
+    $ php artisan make:middleware CheckAge
+
 ---
 
 Fuentes:
@@ -16,3 +20,5 @@ Fuentes:
 + https://stackoverflow.com/questions/21461565/creating-an-initializer-in-laravel
 + https://laravel.com/docs/5.7/eloquent
 + https://laravel.com/docs/5.7/controllers
++ https://laravel.com/docs/5.7/middleware
++ https://stackoverflow.com/questions/28428451/how-do-you-add-headers-to-a-response-with-a-middleware
