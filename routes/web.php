@@ -22,3 +22,4 @@ Route::get('foo', function () {
 });
 
 Route::get('branch/list', 'BranchController@list_all');
+Route::get('demo/branch/list', 'Demo\BranchController@list_all');

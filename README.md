@@ -2,7 +2,7 @@
 
 Crear modelos:
 
-    $ php artisan make:model models/Flight
+    $ php artisan make:model Models/Flight
 
 Crear controladores:
 
